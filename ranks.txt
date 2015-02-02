@@ -1,0 +1,34 @@
+Rank Set Out
+
+Owner
+Access To Everything and Does Everything
+
+Developer
+Access To GitHub Repositorie To Access Game Files
+
+Head Admin
+Access To MySQL Database, Game Console, Server cPanels, High Admin Panel
+
+Admin
+Access To Game Console, High Admin Panel
+
+Trial Admin
+Access To Game Console, Admin Panel
+
+Head Moderator
+Access To Admin Panel
+
+Moderator
+Access To Moderator Panel
+
+Trial Moderator
+Access To Moderator Panel
+
+Head Support
+Access To Moderator Panel, Support Desk
+
+Support
+Access To Support Desk
+
+Trial Support
+Access To Support Desk
